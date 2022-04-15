@@ -42,7 +42,7 @@ const BodyWrapper = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 120px 16px 0px 16px;
+  padding: 156px 16px 0px 16px;
   align-items: center;
   flex: 1;
   z-index: 1;
@@ -57,7 +57,7 @@ const HeaderWrapper = styled.div`
   width: 100%;
   justify-content: space-between;
   position: fixed;
-  top: 0;
+  top: 36px;
   z-index: 2;
 `
 
