@@ -9840,6 +9840,19 @@ ethers@^5.5.4:
     "@ethersproject/web" "5.6.0"
     "@ethersproject/wordlists" "5.6.0"
 
+ethfs-uploader@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.npmjs.org/ethfs-uploader/-/ethfs-uploader-1.1.8.tgz#d2c5491964b763958ac34367cc6883d3c8b040e7"
+  integrity sha512-YF+8pr1D74FT0YUni2oxckKXneURD1JPmfvLPEYjjVyu1tbuO6jDu2T2nwbqmtWk8iWYy28TV/Gy6jso87aTiw==
+  dependencies:
+    colors-cli "^1.0.28"
+    eth-ens-namehash "^2.0.8"
+    ethers "^5.5.4"
+    fs "^0.0.1-security"
+    js-sha3 "^0.8.0"
+    minimist "^1.2.5"
+    rxjs "^7.5.5"
+
 ethjs-util@0.1.6, ethjs-util@^0.1.3:
   version "0.1.6"
   resolved "https://registry.npmjs.org/ethjs-util/-/ethjs-util-0.1.6.tgz"
