@@ -57,7 +57,7 @@ const HeaderWrapper = styled.div`
   width: 100%;
   justify-content: space-between;
   position: fixed;
-  top: 36px;
+  top: 54px;
   z-index: 2;
 `
 
